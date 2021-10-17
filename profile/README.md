@@ -1,1 +1,1 @@
-![docat - Host your docs. Simple. Versioned. Fancy.](../logo.png)
+![docat - Host your docs. Simple. Versioned. Fancy.](https://github.com/docat-org/.github/blob/main/logo.png?raw=true)
