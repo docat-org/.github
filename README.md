@@ -1,1 +1,0 @@
-![docat - Host your docs. Simple. Versioned. Fancy.](logo.png)
